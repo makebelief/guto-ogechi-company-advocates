@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guto-ogechi-company-advocates.vercel.app/sitemap.xml
